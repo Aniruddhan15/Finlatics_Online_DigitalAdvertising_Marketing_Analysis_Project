@@ -25,7 +25,7 @@
         <li><strong>Post Click Sales Amount:</strong> Sales amount from post-click conversions.</li>
     </ul>
 
-    <h2>Project Goals</h2>
+<h2>Project Goals</h2>
     <p>The main goals of this project are:</p>
     <ul>
         <li>Identify the campaigns with the highest post-click conversion rates.</li>
@@ -33,14 +33,14 @@
         <li>Provide actionable insights to optimize future advertising strategies.</li>
     </ul>
 
-    <h2>Key Metrics</h2>
+<h2>Key Metrics</h2>
     <p>Two key metrics used in this analysis are:</p>
     <ul>
         <li><strong>Post-Click Conversion Rate:</strong> Percentage of clicks that result in conversions. Formula: <code>(Post Click Conversions / Clicks) * 100</code></li>
         <li><strong>Click-Through Rate (CTR):</strong> Percentage of ad displays that result in clicks. Formula: <code>(Clicks / Displays) * 100</code></li>
     </ul>
 
-    <h2>Conclusion</h2>
+<h2>Conclusion</h2>
     <p>By analyzing the advertising performance data, this project aims to provide insights into the most effective advertising strategies for Company X, helping to optimize future campaigns for better engagement and higher conversion rates.</p>
 </body>
 </html>
